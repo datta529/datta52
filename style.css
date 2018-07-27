@@ -1,0 +1,32 @@
+.main{
+	width:100%;
+	background-color: #C5B358;  
+	display:flex;
+    justify-content: center;
+    text-align:center;
+}
+.left{
+	width:50%;
+	border:3px solid #808080;
+	box-shadow:3px 3px 3px  white;
+	margin:1%;
+	padding: 1%;
+	background-color: lime;
+}
+
+.right{
+	width:70%;
+	border:4px solid black;
+	box-shadow:3px 3px 3px  white;
+	margin:1%;
+	padding: 1%;
+	background-color: lime;
+}
+img{
+	width:500px;
+}
+h1
+h2
+h3{
+	font-size: 33px;
+}
